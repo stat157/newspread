@@ -10,6 +10,7 @@ for how to create a new Google Spreadsheet with GSpread. This issue
 has some more background information:
 https://github.com/burnash/gspread/issues/36
 
-The next step for Arif is to move the filename variable from the
-top-level into a configuration file and to remove the filename
-hard-coded in the IPython Notebook.
+The next step for Arif & Alex is to move the filename variable from
+the top-level into a configuration file and to remove the filename
+hard-coded in the IPython Notebook. And then use gspread to insert the
+USGS data into the newly created Google Spreadsheet.
